@@ -40,6 +40,11 @@ case $CHOICE in
 		#Example, made by Tomasz Wojdyński
 		./bash/script-hello-world.bash
 		;;
+		
+	8)
+		#Made by Artur Krawczyk
+		./bash/group_add.bash
+		;;		
 
 	99) 
 		echo -e "\nExit from menu in 5 sec. Good bye.\n"
